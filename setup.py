@@ -3,7 +3,6 @@
 import setuptools
 
 INSTALL_REQUIREMENTS = [
-    "imageio[freeimage]",
     "numpy==1.22.3",
     "opencv-python==4.5.5.64",
     "matplotlib==3.5.1",
